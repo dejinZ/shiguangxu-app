@@ -2,7 +2,7 @@
     <div class="main">
         <div>
             <div>应用</div>
-            <div>规划mm</div>
+            <div>规划</div>
 
         </div>
     </div>
