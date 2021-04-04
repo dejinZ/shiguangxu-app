@@ -2,7 +2,8 @@
     <div class="main">
         <div>
             <div>应用</div>
-            <div>规划</div>
+            <div>规划aaa</div>
+
         </div>
     </div>
 </template>
