@@ -3,7 +3,6 @@
         <div>
             <div>应用</div>
             <div>规划</div>
-            <div>我的 </div>
         </div>
     </div>
 </template>
